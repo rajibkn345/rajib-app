@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/rajib-app/static/css/main.073c9b0a.css",
-    "main.js": "/rajib-app/static/js/main.305fea1e.js",
+    "main.css": "/rajib-app/static/css/main.8b3d66cc.css",
+    "main.js": "/rajib-app/static/js/main.5acbd795.js",
     "static/js/787.5feb63f8.chunk.js": "/rajib-app/static/js/787.5feb63f8.chunk.js",
-    "static/media/logo.svg": "/rajib-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/prokitibilash.png": "/rajib-app/static/media/prokitibilash.7bb2ea698ab2e149712a.png",
+    "static/media/startup.png": "/rajib-app/static/media/startup.2325fb0b99d04df46197.png",
+    "static/media/rajib.png": "/rajib-app/static/media/rajib.b39240077e9cfa2fd4f8.png",
+    "static/media/robo-friends.png": "/rajib-app/static/media/robo-friends.5c6d309fd6d045b91e3d.png",
+    "static/media/simple-portfolio.png": "/rajib-app/static/media/simple-portfolio.8609e4ce9068ff2e7555.png",
+    "static/media/expense-tracker.png": "/rajib-app/static/media/expense-tracker.2fd1df89fdaad96400ca.png",
     "index.html": "/rajib-app/index.html",
-    "main.073c9b0a.css.map": "/rajib-app/static/css/main.073c9b0a.css.map",
-    "main.305fea1e.js.map": "/rajib-app/static/js/main.305fea1e.js.map",
+    "main.8b3d66cc.css.map": "/rajib-app/static/css/main.8b3d66cc.css.map",
+    "main.5acbd795.js.map": "/rajib-app/static/js/main.5acbd795.js.map",
     "787.5feb63f8.chunk.js.map": "/rajib-app/static/js/787.5feb63f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.305fea1e.js"
+    "static/css/main.8b3d66cc.css",
+    "static/js/main.5acbd795.js"
   ]
 }
