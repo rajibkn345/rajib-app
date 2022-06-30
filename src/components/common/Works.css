@@ -1,0 +1,18 @@
+.works{
+    padding: 6rem 0;
+}
+.w-title{
+    font-size: 5rem;
+    text-align: center;
+    color: var(--orange);
+    margin-bottom: 4rem;
+}
+.w-items{
+    display: grid;
+    grid-gap: 2rem;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    align-items: center;
+
+
+}

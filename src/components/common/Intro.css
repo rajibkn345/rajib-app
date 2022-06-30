@@ -1,0 +1,169 @@
+.intro{
+    margin-top: 4rem;
+    height: 75vh;
+}
+.i-flex{
+    display: flex;
+    gap: 2rem;
+}
+.i-name{
+    display: flex;
+    flex-direction: column;
+    font-size: 6rem;
+    font-weight: 700;
+}
+.i-name--full{
+    color: var(--orange);
+}
+.i-name--para{
+    font-weight: 200;
+    font-size: 1.4rem;
+    margin-top: 3rem;
+}
+.i-left, .i-right{
+    width: 100%;
+}
+.i-left{
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+}
+.btn--1{
+    padding: 1.2rem 3.5rem;
+    width: fit-content;
+}
+.i-icons{
+    display: flex;
+    gap: 3rem;
+}
+.i-icon{
+    transform: scale(0.5);
+}
+.i-icon:hover{
+    cursor: pointer;
+    transform: scale(0.6);
+}
+.i-right{
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+.i-img{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.i-img img:first-child{
+    transform: scale(0.5);
+    margin-bottom: 1.5rem;
+}
+/* MERN */
+.fmern{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 1rem;
+    width: fit-content;
+    height: fit-content;
+    padding: 1rem;
+    border-radius: 0.8rem;
+    position: absolute;
+}
+.fmern:nth-child(1){
+    box-shadow: 1px 1px 24px 1px #62dafc;
+    left: 0;
+    top: 0;
+    animation: rAnim 4s infinite ease-in-out;
+}
+.fmern:nth-child(2){
+    box-shadow: 1px 1px 24px 1px #3f8b39;
+    right: 0;
+    top: 0;
+    animation: nAnim 4s infinite ease-in-out;
+}
+.fmern:nth-child(3){
+    box-shadow: 1px 1px 24px 1px #0fa54c ;
+    bottom: 0;
+    left: 0;
+    animation: mAnim 4s infinite ease-in-out;
+}
+.fmern:nth-child(4){
+    box-shadow: 1px 1px 24px 1px #f0d81e;
+    bottom: 0;
+    right: 0;
+    animation: eAnim 4s infinite ease-in-out;
+}
+
+.mern-text{
+    font-size: 2rem;
+}
+.mern-text:first-child{
+    color: #62dafc;
+}
+
+@keyframes rAnim{
+    0%{
+        left: 0;
+        top: 0;
+    }
+    
+    50%{
+     left: 6rem;
+     top: 0;  
+    }
+    100%{
+        left: 0;
+        top: 0;
+    }
+}
+@keyframes mAnim{
+    0%{
+        left: 0;
+        bottom: 0;
+    }
+    
+    50%{
+     left: 6rem;
+     bottom: 0;  
+    }
+    100%{
+        left: 0;
+        bottom: 0;
+    }
+}
+@keyframes nAnim{
+    0%{
+        right: 0;
+        top: 0;
+    }
+    
+    50%{
+     right: 6rem;
+     top: 0;  
+    }
+    100%{
+        right: 0;
+        top: 0;
+    }
+}
+@keyframes eAnim{
+    0%{
+        right: 0;
+        bottom: 0;
+    }
+    
+    50%{
+     right: 6rem;
+     bottom: 0;  
+    }
+    100%{
+        right: 0;
+        bottom: 0;
+    }
+}

@@ -1,0 +1,30 @@
+nav{
+    height: 10vh;
+}
+.leftSide, .rightSide{
+    display: flex;
+    align-items: center;
+}
+.rightSide{
+    justify-content: right;
+}
+.logoH{
+    font-size: 3.5rem;
+    margin-right: 3rem;
+    background-image: linear-gradient(to right, #fdc50f 26.71%, #fb982f 99.36%);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+ul{
+    margin-right: 3rem;
+}
+li{
+    font-size: 2rem;
+}
+li:hover{
+    color: var(--orange);
+    cursor: pointer;
+}
+.leftSide{
+    display: flex;
+}

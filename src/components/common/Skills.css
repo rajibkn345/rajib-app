@@ -1,0 +1,49 @@
+.skills{
+    margin: 4rem 0;
+    padding: 6rem 0;
+    background-color: #212121;
+}
+.s-heading{
+    color: var(--orange);
+    font-size: 5rem;
+}
+.s-items{
+    padding: 8rem 0;
+    display:grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: space-around;
+    grid-row-gap: 12rem;
+}
+.s-item-box{
+    padding: 4rem;
+    width: 15rem;
+    height: 15rem;
+    box-shadow: 1px 2px 24px 2px var(--orange);
+    background-color: #fff;
+    border-radius: 1rem;
+    position: relative;
+    transform: rotate(45deg);
+}
+.s-item-box:hover{
+    transform: scale(1.1) rotate(45deg);
+    cursor: pointer;
+
+}
+.s-item{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+    align-items: center;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    transform: rotate(-45deg);
+}
+.s-title{
+    font-size: 1.6rem;
+    color: #777;
+}

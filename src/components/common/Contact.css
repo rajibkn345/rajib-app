@@ -1,0 +1,23 @@
+.contact{
+    margin-top: 4rem;
+    padding: 6rem 0;
+    background-color: #212121;
+}
+.c-heading{
+    font-size: 5rem;
+    color: var(--orange);
+    text-align: center;
+    padding: 2rem;
+}
+.c-form{
+    width: 50rem;
+    height: auto;
+    margin: auto;
+
+}
+.madeby{
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    margin-top: 4rem;
+}
