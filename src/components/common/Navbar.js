@@ -13,9 +13,7 @@ const Navbar = () => {
 						<ul className='flex'>
 							<li>Home</li>
 							<li>Services</li>
-							<li>Experience</li>
 							<li>Works</li>
-							<li>Testimonial</li>
 						</ul>
 						<button className='btn'>Contact</button>
 					</div>
