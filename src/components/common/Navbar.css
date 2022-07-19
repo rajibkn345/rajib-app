@@ -20,6 +20,9 @@ ul{
 }
 li{
     font-size: 2rem;
+    font-weight: 500;
+    padding: 0.5rem 2.5rem;
+    letter-spacing: 1px;
 }
 li:hover{
     color: var(--orange);
@@ -27,4 +30,9 @@ li:hover{
 }
 .leftSide{
     display: flex;
+}
+
+.navLink{
+    text-decoration: none;
+    color: inherit;
 }

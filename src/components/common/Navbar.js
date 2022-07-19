@@ -1,5 +1,6 @@
 import React from "react";
 import "./Navbar.css";
+import { NavHashLink } from "react-router-hash-link";
 
 const Navbar = () => {
 	return (
@@ -7,15 +8,25 @@ const Navbar = () => {
 			<nav>
 				<div className='container spaceB flex'>
 					<div className='leftSide'>
-						<h1 className='logoH'>{"<Rajib/>"}</h1>
+						<NavHashLink className='navLink' to={"/"}>
+							<h1 className='logoH'>{"<Rajib/>"}</h1>
+						</NavHashLink>
 					</div>
 					<div className='rightSide'>
 						<ul className='flex'>
-							<li>Home</li>
-							<li>Services</li>
-							<li>Works</li>
+							<NavHashLink className='navLink' to='/#intro'>
+								<li>About</li>
+							</NavHashLink>
+							<NavHashLink className='navLink' to='/#skills'>
+								<li>Skills</li>
+							</NavHashLink>
+							<NavHashLink to='/#works' className='navLink'>
+								<li>Works</li>
+							</NavHashLink>
 						</ul>
-						<button className='btn'>Contact</button>
+						<NavHashLink className='navLink' to='/#contact'>
+							<button className='btn'>Contact</button>
+						</NavHashLink>
 					</div>
 				</div>
 			</nav>

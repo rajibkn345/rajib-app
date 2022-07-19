@@ -4,7 +4,7 @@ import WorkItem from "./WorkItem";
 
 const Works = () => {
 	return (
-		<section className='works'>
+		<section id='works'>
 			<div className='container'>
 				<h1 className='w-title'>Works</h1>
 				<div className='w-items'>

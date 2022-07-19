@@ -13,7 +13,7 @@ const Skills = () => {
 	const bootsColor = "#8613f4";
 	const muiColor = "#0081cc";
 	return (
-		<section className='skills'>
+		<section id='skills'>
 			<div className='container'>
 				<h1 className='s-heading center'>Skills</h1>
 				<div className='s-items'>

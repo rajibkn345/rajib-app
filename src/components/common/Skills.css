@@ -1,7 +1,8 @@
-.skills{
+#skills{
     margin: 4rem 0;
     padding: 6rem 0;
     background-color: #212121;
+    scroll-behavior: smooth;
 }
 .s-heading{
     color: var(--orange);

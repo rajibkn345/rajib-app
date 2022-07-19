@@ -4,7 +4,7 @@ import ContactBody from "./ContactBody";
 
 const Contact = () => {
 	return (
-		<section className='contact'>
+		<section id='contact'>
 			<div className='container'>
 				<h1 className='c-heading'>Let's talk</h1>
 				<div className='c-form'>

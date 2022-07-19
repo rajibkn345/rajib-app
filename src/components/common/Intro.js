@@ -13,21 +13,26 @@ const Intro = () => {
 	const expressColor = "#f0d81e";
 	const mongoColor = "#0fa54c";
 	return (
-		<section className='intro'>
+		<section id='intro'>
 			<div className='container i-flex'>
 				<div className='i-left'>
 					<div className='i-name'>
 						<span>Hy! I am</span>
 						<span className='i-name--full'>Roman Khan Rajib</span>
 						<span className='i-name--para'>
-							frontend developer with high level of experience in web design and
-							development. Producting the quality work.
+							passionate full stack developer working with latest technology.
 						</span>
 					</div>
-					<button className='btn btn--1'>Hire me</button>
+					<a href='/#'>
+						<button className='btn btn--1'>Hire me</button>
+					</a>
 					<div className='i-icons'>
-						<img className='i-icon' src={github} alt='github' />
-						<img className='i-icon' src={linkedin} alt='linkedin' />
+						<a href='https://github.com/rajibkn345'>
+							<img className='i-icon' src={github} alt='github' />
+						</a>
+						<a href='https://www.linkedin.com/in/roman-khan-rajib-a81845b9/'>
+							<img className='i-icon' src={linkedin} alt='linkedin' />
+						</a>
 						<img className='i-icon' src={instagram} alt='instagram' />
 					</div>
 				</div>
