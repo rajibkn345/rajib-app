@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/rajib-app/static/css/main.a35d8151.css",
-    "main.js": "/rajib-app/static/js/main.77760646.js",
-    "static/media/prokitibilash.png": "/rajib-app/static/media/prokitibilash.7bb2ea698ab2e149712a.png",
-    "static/media/face-app.png": "/rajib-app/static/media/face-app.a7f9e44caa9b7594e797.png",
-    "static/media/startup.png": "/rajib-app/static/media/startup.2325fb0b99d04df46197.png",
-    "static/media/rajib.png": "/rajib-app/static/media/rajib.b39240077e9cfa2fd4f8.png",
-    "static/media/robo-friends.png": "/rajib-app/static/media/robo-friends.5c6d309fd6d045b91e3d.png",
-    "static/media/osm-app.png": "/rajib-app/static/media/osm-app.62c432de42e5b3caa29e.png",
-    "static/media/simple-portfolio.png": "/rajib-app/static/media/simple-portfolio.8609e4ce9068ff2e7555.png",
-    "static/media/country-app.png": "/rajib-app/static/media/country-app.62d924f3087ebd8fd498.png",
-    "static/media/color-generator.png": "/rajib-app/static/media/color-generator.1ac98333b0145e3edce6.png",
-    "static/media/expense-tracker.png": "/rajib-app/static/media/expense-tracker.2fd1df89fdaad96400ca.png",
-    "index.html": "/rajib-app/index.html",
-    "main.a35d8151.css.map": "/rajib-app/static/css/main.a35d8151.css.map",
-    "main.77760646.js.map": "/rajib-app/static/js/main.77760646.js.map"
+    "main.css": "/static/css/main.a35d8151.css",
+    "main.js": "/static/js/main.602ae976.js",
+    "static/media/prokitibilash.png": "/static/media/prokitibilash.7bb2ea698ab2e149712a.png",
+    "static/media/face-app.png": "/static/media/face-app.a7f9e44caa9b7594e797.png",
+    "static/media/startup.png": "/static/media/startup.2325fb0b99d04df46197.png",
+    "static/media/rajib.png": "/static/media/rajib.b39240077e9cfa2fd4f8.png",
+    "static/media/robo-friends.png": "/static/media/robo-friends.5c6d309fd6d045b91e3d.png",
+    "static/media/osm-app.png": "/static/media/osm-app.62c432de42e5b3caa29e.png",
+    "static/media/simple-portfolio.png": "/static/media/simple-portfolio.8609e4ce9068ff2e7555.png",
+    "static/media/country-app.png": "/static/media/country-app.62d924f3087ebd8fd498.png",
+    "static/media/color-generator.png": "/static/media/color-generator.1ac98333b0145e3edce6.png",
+    "static/media/expense-tracker.png": "/static/media/expense-tracker.2fd1df89fdaad96400ca.png",
+    "index.html": "/index.html",
+    "main.a35d8151.css.map": "/static/css/main.a35d8151.css.map",
+    "main.602ae976.js.map": "/static/js/main.602ae976.js.map"
   },
   "entrypoints": [
     "static/css/main.a35d8151.css",
-    "static/js/main.77760646.js"
+    "static/js/main.602ae976.js"
   ]
 }
