@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a35d8151.css",
-    "main.js": "/static/js/main.602ae976.js",
+    "main.css": "/static/css/main.446e3439.css",
+    "main.js": "/static/js/main.1ef6c640.js",
     "static/media/prokitibilash.png": "/static/media/prokitibilash.7bb2ea698ab2e149712a.png",
     "static/media/face-app.png": "/static/media/face-app.a7f9e44caa9b7594e797.png",
     "static/media/startup.png": "/static/media/startup.2325fb0b99d04df46197.png",
@@ -13,11 +13,11 @@
     "static/media/color-generator.png": "/static/media/color-generator.1ac98333b0145e3edce6.png",
     "static/media/expense-tracker.png": "/static/media/expense-tracker.2fd1df89fdaad96400ca.png",
     "index.html": "/index.html",
-    "main.a35d8151.css.map": "/static/css/main.a35d8151.css.map",
-    "main.602ae976.js.map": "/static/js/main.602ae976.js.map"
+    "main.446e3439.css.map": "/static/css/main.446e3439.css.map",
+    "main.1ef6c640.js.map": "/static/js/main.1ef6c640.js.map"
   },
   "entrypoints": [
-    "static/css/main.a35d8151.css",
-    "static/js/main.602ae976.js"
+    "static/css/main.446e3439.css",
+    "static/js/main.1ef6c640.js"
   ]
 }
