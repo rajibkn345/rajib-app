@@ -23,10 +23,9 @@
     background-color: #fff;
     border-radius: 1rem;
     position: relative;
-    transform: rotate(45deg);
 }
 .s-item-box:hover{
-    transform: scale(1.1) rotate(45deg);
+    transform: scale(1.1);
     cursor: pointer;
 
 }
@@ -42,7 +41,6 @@
     top: 0;
     bottom: 0;
     margin: auto;
-    transform: rotate(-45deg);
 }
 .s-title{
     font-size: 1.6rem;
